@@ -12,13 +12,13 @@ Key metrics such as total annual sales, top‑selling products, and monthly sale
 **Key findings:** Overall Performance
 The KPI cards show that the business generated strong total revenue (£3,587,102) in 2019, supported by healthy profit (£2,113,670) and a high total quantity (861,132) sold. This provides a clear snapshot of the company’s financial performance for the year.
 
-Top Selling Products
-Chocolate Chip is the highest selling product, generating the largest share of total sales (36%) and the highest quantity sold (255,993 units). It significantly outperforms all other cookie varieties, making it the primary driver of revenue. This product should remain a strategic focus for production planning and marketing investment.
+Top Selling Products;
+Chocolate Chip is the highest selling product, generating the largest share of total sales (36%) and the highest quantity sold (255,993 units). It outperforms all other cookie varieties, making it the primary driver of revenue. This product should remain a strategic focus for production planning and marketing investment.
 
-Monthly Sales Trends
+Monthly Sales Trends;
 The line chart shows that sales peaked during the year, with October recording the highest sales and also the highest cost. This indicates that sales and cost of sales move in the same direction, suggesting effective cost management. Several months experienced noticeable dips, highlighting opportunities for targeted promotions or inventory adjustments during slower periods.
 
-Regional Performance
+Regional Performance;
 The regional chart shows that France recorded the highest sales, contributing more to total revenue than any other region. This highlights where customer demand is strongest. Lower performing regions may benefit from improved distribution, local marketing initiatives, or adjustments to the product mix.
 
 Interactive Filtering
