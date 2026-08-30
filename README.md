@@ -10,7 +10,7 @@
 **Key findings:**
 
 **Dashboard Overview:**
-![Airline](Airline.png) 
+![Cookies1](Cookies1.png) 
 
 
 
