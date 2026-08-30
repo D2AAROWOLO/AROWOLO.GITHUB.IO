@@ -10,7 +10,7 @@
 **Key findings:**
 
 **Dashboard Overview:**
-![Cookies1](Cookies1.png) 
+![CookiesDBPic](CookiesDBPic.png) 
 
 
 
