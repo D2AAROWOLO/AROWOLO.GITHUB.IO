@@ -28,7 +28,7 @@ Conclusion
 The dashboard provides clear visual insights using a combination of charts that show which products lead in revenue, how sales evolve month to month, and which regions drive the most value. These visuals help stakeholders quickly identify strengths, weaknesses, and potential growth opportunities.
 
 **Dashboard Overview:**
-![CookiesDBPic](CookiesDBPic.png) 
+![CookiesDPic](CookiesDPic.png) 
 
 
 
