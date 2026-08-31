@@ -32,4 +32,15 @@ The dashboard provides clear visual insights using a combination of charts that 
 
 
 
+# Project 2
+**Title:** [5 Year Global Airline Performance Dashboard](https://github.com/D2AAROWOLO/Arowolo/blob/main/AirlineDB1.xlsx)
+
+**Tools Used:** Microsoft Excel (Pivot Table, Pivot Chart, Slicer, Shapes, Textbox, Conditional Formatting, Custom Number Formatting, Chart Formatting)
+
+**Project Description:** 
+
+**Key findings:**
+
+**Dashboard Overview:**
+![Airline1](Airline1.png) 
 
