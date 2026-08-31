@@ -36,7 +36,7 @@ The dashboard provides clear visual insights using a combination of charts that 
 
 **Tools Used:** Microsoft Excel (Pivot Table, Pivot Chart, Slicer, Shapes, Textbox, Conditional Formatting, Custom Number Formatting, Chart Formatting, Data Cleaning and Normalisation)
 
-**Project Description:** This dashboard provides a five year performance analysis of global airlines using interactive Excel visualizations. It highlights regional revenue, market share, business model, as well as revenue trends, operational performance, and comparative growth across the top five airlines from 2022 to 2026. Using Pivot Tables, Pivot Charts, and slicers, the dashboard allows stakeholders to explore airline performance dynamically and compare how each airline evolves over time. 
+**Project Description:** This dashboard provides a five year performance analysis of global airlines using interactive Excel visualizations. It highlights total revenue, market share across business region, business model, alongside a detailed five-year revenue trends, operational performance, and comparative growth across the top five airlines from 2022 to 2026. Using Pivot Tables, Pivot Charts, and slicers, the dashboard allows stakeholders to explore airline performance dynamically and compare how each airline evolves over time. 
 
 **Key findings:**
 
