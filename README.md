@@ -20,8 +20,7 @@ The line chart shows that sales peaked during the year, with October recording t
 Regional Performance;
 The regional chart shows that France recorded the highest sales, contributing more to total revenue than any other region. This highlights where customer demand is strongest. Lower performing regions may benefit from improved distribution, local marketing initiatives, or adjustments to the product mix.
 
-Interactive Filtering
-Using slicers, stakeholders can immediately see how product performance varies by region and how regional trends shift across product categories. This dynamic filtering supports deeper exploration and faster, more informed decision making.
+Additionally, with the interactive filtering using slicers, stakeholders can immediately see how product performance varies by region and how regional trends shift across product categories. This dynamic filtering supports deeper exploration and faster, more informed decision making.
 
 Conclusion
 The dashboard provides clear visual insights using a combination of charts that show which products lead in revenue, how sales evolve month to month, and which regions drive the most value. These visuals help stakeholders quickly identify strengths, weaknesses, and potential growth opportunities.
