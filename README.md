@@ -34,11 +34,30 @@ The dashboard provides clear visual insights using a combination of charts that 
 # Project 2
 **Title:** [5 Year Global Airline Performance Dashboard](https://github.com/D2AAROWOLO/Arowolo/blob/main/AirlineDB1.xlsx)
 
-**Tools Used:** Microsoft Excel (Pivot Table, Pivot Chart, Slicer, Shapes, Textbox, Conditional Formatting, Custom Number Formatting, Chart Formatting, Data Cleaning and Normalisation)
+**Tools Used:** 
+Microsoft Excel (Pivot Table, Pivot Chart, Slicer, Shapes, Textbox, Conditional Formatting, Custom Number Formatting, Chart Formatting, Data Cleaning and Normalisation)
 
-**Project Description:** This dashboard provides a five year performance analysis of global airlines using interactive Excel visualizations. It highlights total revenue, market share across business region, business model, alongside a detailed five-year revenue trends, operational performance, and comparative growth across the top five airlines from 2022 to 2026. Using Pivot Tables, Pivot Charts, and slicers, the dashboard allows stakeholders to explore airline performance dynamically and compare how each airline evolves over time. 
+**Project Description:** 
+This dashboard provides a five year performance analysis of global airlines using interactive Excel visualizations. It highlights total revenue, market share across business region, business model, alongside a detailed five-year revenue trends, operational performance, and comparative growth across the top five airlines from 2022 to 2026. Using Pivot Tables, Pivot Charts, and slicers, the dashboard allows stakeholders to explore airline performance dynamically and compare how each airline evolves over time. 
 
 **Key findings:**
+Strong Growth in Total Revenue Across Five Years
+All airlines demonstrate consistent year on year increases in Total Revenue, reflecting strong market demand, improved route performance, indicating stable demand and strong post pandemic recovery. 
+
+Operating Revenue Shows How Well Each Airline Manages Its Core Operations
+Operating Revenue represents the income an airline generates strictly from its core business activities. This KPI provides insight into how effectively the airline performs in its primary operations. Airlines with higher Operating Revenue demonstrate stronger demand for their core services, better utilisation of operational capacity, and more effective conversion of core activities into financial value. 
+
+Passenger Distribution by Region Highlights Market Strength
+Passenger numbers vary significantly across regions, revealing where airlines have strong market presence. High demand regions drive revenue growth and market share, while lower demand regions highlight opportunities for strategic expansion, improved route planning, or targeted marketing.
+
+Market Share by Business Region Shows Competitive Positioning; The dashboard reveals clear differences in market share across business regions. Some airlines dominate specific regions, while others maintain a more balanced distribution. Understanding these patterns helps identify competitive strengths and potential growth markets.
+
+Market Share by Business Model; The distribution of market share across Legacy, Low Cost, and Regional business models highlight how different airline strategies perform within the industry. Legacy carriers hold the largest share, reflecting their extensive route networks, established brand presence, and diversified service offerings. 
+
+Five Year Revenue Trend Shows Predictable and Stable Growth; the trend chart shows smooth upward movement for all airlines from 2022 to 2026. Air France KLM and Lufthansa Group lead the group, while American Airlines, United Airlines, and Delta Air Lines show steady, moderate growth. This stability supports long term planning and investment confidence.
+
+Additionally, the dashboard includes interactive slicers and a timeline. The slicers allow users to filter by airline, region, or performance category, enabling deeper exploration and quick comparison of performance across multiple dimensions, including individual years. This interactivity supports faster and more informed decision‑making.
+
 
 **Dashboard Overview:**
 ![Airline1](Airline1.png) 
