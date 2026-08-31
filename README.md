@@ -6,14 +6,13 @@
 **Tools Used:** Microsoft Excel (Pivot Table, Pivot Chart, Slicer, Shapes, Textbox, Conditional Formatting, Custom Number Formatting, Chart Formatting)
 
 **Project Description:** This project analyses the 2019 sales performance of a cookies company using an interactive Excel dashboard. The dataset includes product‑level sales, regional performance, and monthly trends. Using Pivot Tables, Pivot Charts, Slicers, and custom formatting, the dashboard provides a clear visual summary of how different cookie products performed throughout the year.
-
 Key metrics such as total annual sales, top‑selling products, and monthly sales fluctuations are highlighted in the dashboard. Interactive slicers allow users to filter results by product type or region, making it easy to explore patterns and compare performance across categories. The Key Performance Indicators (KPIs) display total revenue, total cost, total profit, and total quantity sold.
 
 **Key findings:** Overall Performance
 The KPI cards show that the business generated strong total revenue (£3,587,102) in 2019, supported by healthy profit (£2,113,670) and a high total quantity (861,132) sold. This provides a clear snapshot of the company’s financial performance for the year.
 
 Top Selling Products;
-Chocolate Chip is the highest selling product, generating the largest share of total sales (36%) and the highest quantity sold (255,993 units). It outperforms all other cookie varieties, making it the primary driver of revenue. This product should remain a strategic focus for production planning and marketing investment.
+Chocolate Chip is the highest selling product, generating the largest share of total revenue (36%) and the highest quantity sold (255,993 units). It outperforms all other cookie varieties, making it the primary driver of revenue. This product should remain a strategic focus for production planning and marketing investment.
 
 Monthly Sales Trends;
 The line chart shows that sales peaked during the year, with October recording the highest sales and also the highest cost. This indicates that sales and cost of sales move in the same direction, suggesting effective cost management. Several months experienced noticeable dips, highlighting opportunities for targeted promotions or inventory adjustments during slower periods.
@@ -37,7 +36,7 @@ The dashboard provides clear visual insights using a combination of charts that 
 
 **Tools Used:** Microsoft Excel (Pivot Table, Pivot Chart, Slicer, Shapes, Textbox, Conditional Formatting, Custom Number Formatting, Chart Formatting, Data Cleaning and Normalisation)
 
-**Project Description:** 
+**Project Description:** This dashboard provides a five year performance analysis of major global airlines using interactive Excel visualizations. It highlights regional revenue, market share, revenue trends, operational performance, and comparative growth across the top five airlines from 2022 to 2026. Using Pivot Tables, Pivot Charts, and slicers, the dashboard allows stakeholders to explore airline performance dynamically and compare how each airline evolves over time. 
 
 **Key findings:**
 
